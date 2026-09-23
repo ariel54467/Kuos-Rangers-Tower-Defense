@@ -1,0 +1,173 @@
+[INFO] Game Initializing...
+[INFO] Loaded Resource<image>: Resource/images/icon.png
+[INFO] Loaded window icon from: icon.png
+[INFO] There are total 5 supported mouse buttons
+[INFO] Allegro5 initialized
+[INFO] Game begin
+[INFO] Loaded Resource<image>: Resource/images/win/yaya.jpg scaled to 1600x832
+[INFO] Loaded Resource<font>: Resource/fonts/pirulen.ttf with size 120
+[INFO] Loaded Resource<image>: Resource/images/stage-select/dirt.png scaled to 400x100
+[INFO] Loaded Resource<image>: Resource/images/stage-select/dirt.png
+[INFO] Loaded Resource<image>: Resource/images/stage-select/floor.png
+[INFO] Loaded Resource<font>: Resource/fonts/pirulen.ttf with size 48
+[INFO] Loaded Resource<audio>: Resource/audios/bgm.ogg
+[INFO] Created<sample_instance>: Resource/audios/bgm.ogg
+[INFO] Game initialized
+[INFO] Game start event loop
+[INFO] stopped audio (sample)
+[INFO] Loaded Resource<image>: Resource/images/stage-select/slider.png
+[INFO] Loaded Resource<image>: Resource/images/stage-select/slider-blue.png
+[INFO] Loaded Resource<image>: Resource/images/stage-select/bar.png scaled to 190x4
+[INFO] Loaded Resource<image>: Resource/images/stage-select/end.png
+[INFO] Loaded Resource<font>: Resource/fonts/pirulen.ttf with size 28
+[INFO] Loaded Resource<audio>: Resource/audios/select.ogg
+[INFO] Created<sample_instance>: Resource/audios/select.ogg
+[INFO] Changed to settings scene
+[INFO] stopped audio (sample)
+[INFO] Created<sample_instance>: Resource/audios/bgm.ogg
+[INFO] Changed to start scene
+[INFO] stopped audio (sample)
+[INFO] Loaded Resource<image>: Resource/images/stage-select/stageselectscreen.png scaled to 1600x832
+[INFO] Loaded Resource<image>: Resource/images/win/dirt.png scaled to 400x100
+[INFO] Loaded Resource<image>: Resource/images/win/dirt.png
+[INFO] Loaded Resource<image>: Resource/images/win/floor.png
+[INFO] Loaded Resource<font>: Resource/fonts/pirulen.ttf with size 36
+[INFO] Loaded Resource<image>: Resource/images/play/sand.png scaled to 400x600
+[INFO] Loaded Resource<image>: Resource/images/stage-select/dirt.png scaled to 64x64
+[INFO] Loaded Resource<image>: Resource/images/play/hero1.png scaled to 64x64
+[INFO] Loaded Resource<image>: Resource/images/play/hero2.png scaled to 64x64
+[INFO] Loaded Resource<image>: Resource/images/play/hero3.png scaled to 64x64
+[INFO] Loaded Resource<image>: Resource/images/play/hero4.png scaled to 64x64
+[INFO] Loaded Resource<image>: Resource/images/play/jet.png scaled to 64x64
+[INFO] Loaded Resource<font>: Resource/fonts/pirulen.ttf with size 20
+[INFO] Loaded Resource<image>: Resource/images/play/sand.png scaled to 400x200
+[INFO] Loaded Resource<font>: Resource/fonts/pirulen.ttf with size 24
+[INFO] Created<sample_instance>: Resource/audios/select.ogg
+[INFO] Changed to stage-select scene
+[INFO] Loaded Resource<image>: Resource/images/play/hero3.png
+[INFO] Loaded Resource<image>: Resource/images/play/jet.png
+[INFO] Loaded Resource<image>: Resource/images/play/hero4.png
+[INFO] Loaded Resource<image>: Resource/images/play/hero2.png
+[INFO] stopped audio (sample)
+[INFO] Loaded Resource<image>: Resource/images/play/clouds.jpeg scaled to 1600x832
+[INFO] Loaded Resource<image>: Resource/images/play/nothing.png scaled to 64x64
+[INFO] Loaded Resource<image>: Resource/images/play/pixeldirt.jpeg scaled to 64x64
+[INFO] Loaded Resource<image>: Resource/images/play/sand.png
+[INFO] Loaded Resource<font>: Resource/fonts/pirulen.ttf with size 32
+[INFO] Loaded Resource<image>: Resource/images/play/nothing.png
+[INFO] Loaded Resource<image>: Resource/images/play/bgbutton_1.png
+[INFO] Loaded Resource<image>: Resource/images/play/bgbutton.png
+[INFO] Loaded Resource<font>: Resource/fonts/pirulen.ttf with size 12
+[INFO] Loaded Resource<image>: Resource/images/play/jet_1.png
+[INFO] Loaded Resource<image>: Resource/images/play/snowball_1.png
+[INFO] Loaded Resource<image>: Resource/images/play/money.png
+[INFO] Loaded Resource<image>: Resource/images/play/bullet-4.png
+[INFO] Loaded Resource<image>: Resource/images/play/benjamin.png
+[INFO] Loaded Resource<image>: Resource/images/play/target.png
+[INFO] Loaded Resource<image>: Resource/images/play/enemy_base.png
+[INFO] Loaded Resource<image>: Resource/images/play/tower_base.png
+[INFO] Loaded Resource<audio>: Resource/audios/astronomia.ogg
+[INFO] Created<sample_instance>: Resource/audios/astronomia.ogg
+[INFO] Loaded Resource<image>: Resource/images/lose/benjamin-happy.png
+[INFO] Loaded Resource<audio>: Resource/audios/play.ogg
+[INFO] Changed to play scene
+[INFO] Loaded Resource<image>: Resource/images/play/hero2_e.png
+[INFO] Loaded Resource<image>: Resource/images/play/bullet-3.png
+[INFO] Loaded Resource<audio>: Resource/audios/missile.wav
+[INFO] Loaded Resource<image>: Resource/images/play/dirty-3.png
+[INFO] Loaded Resource<image>: Resource/images/play/hero4_e.png
+[INFO] Loaded Resource<image>: Resource/images/play/explosion-1.png
+[INFO] Loaded Resource<image>: Resource/images/play/explosion-2.png
+[INFO] Loaded Resource<image>: Resource/images/play/explosion-3.png
+[INFO] Loaded Resource<image>: Resource/images/play/explosion-4.png
+[INFO] Loaded Resource<image>: Resource/images/play/explosion-5.png
+[INFO] Loaded Resource<image>: Resource/images/play/dirty-1.png
+[INFO] Loaded Resource<image>: Resource/images/play/dirty-2.png
+[INFO] Loaded Resource<audio>: Resource/audios/explosion.wav
+[INFO] Loaded Resource<image>: Resource/images/play/bullet-2.png
+[INFO] Loaded Resource<audio>: Resource/audios/laser.wav
+[INFO] Loaded Resource<image>: Resource/images/play/blue.png
+[INFO] Loaded Resource<audio>: Resource/audios/gun.wav
+[INFO] stopped audio (bgm)
+[INFO] Created<sample_instance>: Resource/audios/astronomia.ogg
+[INFO] Changed to lose scene
+[INFO] stopped audio (sample)
+[INFO] Created<sample_instance>: Resource/audios/select.ogg
+[INFO] Changed to stage-select scene
+[INFO] Game Terminating...
+[INFO] stopped audio (sample)
+[INFO] Game terminated
+[INFO] Game end
+[INFO] Destroyed Resource<image>: play/blue.png
+[INFO] Destroyed Resource<image>: play/bullet-2.png
+[INFO] Destroyed Resource<image>: play/dirty-2.png
+[INFO] Destroyed Resource<image>: play/dirty-1.png
+[INFO] Destroyed Resource<image>: play/explosion-5.png
+[INFO] Destroyed Resource<image>: play/explosion-4.png
+[INFO] Destroyed Resource<image>: play/sand.png
+[INFO] Destroyed Resource<image>: play/hero3.png?64x64
+[INFO] Destroyed Resource<image>: play/explosion-2.png
+[INFO] Destroyed Resource<image>: play/hero4_e.png
+[INFO] Destroyed Resource<image>: play/hero2_e.png
+[INFO] Destroyed Resource<image>: play/hero2.png?64x64
+[INFO] Destroyed Resource<image>: play/bgbutton_1.png
+[INFO] Destroyed Resource<image>: play/snowball_1.png
+[INFO] Destroyed Resource<image>: lose/benjamin-happy.png
+[INFO] Destroyed Resource<image>: play/target.png
+[INFO] Destroyed Resource<image>: play/tower_base.png
+[INFO] Destroyed Resource<image>: stage-select/dirt.png?64x64
+[INFO] Destroyed Resource<image>: play/bullet-3.png
+[INFO] Destroyed Resource<image>: play/sand.png?400x200
+[INFO] Destroyed Resource<image>: stage-select/slider-blue.png
+[INFO] Destroyed Resource<image>: play/benjamin.png
+[INFO] Destroyed Resource<image>: win/dirt.png?400x100
+[INFO] Destroyed Resource<image>: play/explosion-1.png
+[INFO] Destroyed Resource<image>: play/money.png
+[INFO] Destroyed Resource<image>: play/bgbutton.png
+[INFO] Destroyed Resource<image>: play/hero1.png?64x64
+[INFO] Destroyed Resource<image>: play/nothing.png
+[INFO] Destroyed Resource<image>: play/nothing.png?64x64
+[INFO] Destroyed Resource<image>: play/clouds.jpeg?1600x832
+[INFO] Destroyed Resource<image>: stage-select/dirt.png?400x100
+[INFO] Destroyed Resource<image>: win/yaya.jpg?1600x832
+[INFO] Destroyed Resource<image>: play/jet_1.png
+[INFO] Destroyed Resource<image>: play/jet.png?64x64
+[INFO] Destroyed Resource<image>: play/hero4.png?64x64
+[INFO] Destroyed Resource<image>: play/bullet-4.png
+[INFO] Destroyed Resource<image>: stage-select/dirt.png
+[INFO] Destroyed Resource<image>: play/hero4.png
+[INFO] Destroyed Resource<image>: stage-select/end.png
+[INFO] Destroyed Resource<image>: win/dirt.png
+[INFO] Destroyed Resource<image>: play/hero3.png
+[INFO] Destroyed Resource<image>: play/dirty-3.png
+[INFO] Destroyed Resource<image>: icon.png
+[INFO] Destroyed Resource<image>: stage-select/stageselectscreen.png?1600x832
+[INFO] Destroyed Resource<image>: play/jet.png
+[INFO] Destroyed Resource<image>: stage-select/bar.png?190x4
+[INFO] Destroyed Resource<image>: play/hero2.png
+[INFO] Destroyed Resource<image>: win/floor.png
+[INFO] Destroyed Resource<image>: stage-select/floor.png
+[INFO] Destroyed Resource<image>: play/enemy_base.png
+[INFO] Destroyed Resource<image>: play/pixeldirt.jpeg?64x64
+[INFO] Destroyed Resource<image>: stage-select/slider.png
+[INFO] Destroyed Resource<image>: play/explosion-3.png
+[INFO] Destroyed Resource<image>: play/sand.png?400x600
+[INFO] Destroyed Resource<font>: pirulen.ttf?12
+[INFO] Destroyed Resource<font>: pirulen.ttf?32
+[INFO] Destroyed Resource<font>: pirulen.ttf?48
+[INFO] Destroyed Resource<font>: pirulen.ttf?20
+[INFO] Destroyed Resource<font>: pirulen.ttf?36
+[INFO] Destroyed Resource<font>: pirulen.ttf?28
+[INFO] Destroyed Resource<font>: pirulen.ttf?24
+[INFO] Destroyed Resource<font>: pirulen.ttf?120
+[INFO] Destroyed<sample_instance>: astronomia.ogg
+[INFO] Destroyed<sample_instance>: select.ogg
+[INFO] Destroyed<sample_instance>: bgm.ogg
+[INFO] Destroyed Resource<audio>: laser.wav
+[INFO] Destroyed Resource<audio>: missile.wav
+[INFO] Destroyed Resource<audio>: astronomia.ogg
+[INFO] Destroyed Resource<audio>: gun.wav
+[INFO] Destroyed Resource<audio>: select.ogg
+[INFO] Destroyed Resource<audio>: explosion.wav
+[INFO] Destroyed Resource<audio>: play.ogg
+[INFO] Destroyed Resource<audio>: bgm.ogg
